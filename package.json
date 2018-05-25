@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "April Sayler (april@katoracoffee.com)",
+  "author": "April Sayler (superflycrazy@users.noreply.github.com)",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.1.1",
