@@ -8,9 +8,28 @@
   },
   "author": "April Sayler (superflycrazy@users.noreply.github.com)",
   "license": "ISC",
-  "dependencies": {
+  "engines": {
+    "node": "0.8.x",
+    "npm":  "1.1.x"
+	},
+	"dependencies": {
     "bootstrap": "^4.1.1",
+    "popper.js": "^1.14.3",
+    "postcss-html": "^0.23.7",
+    "postcss-markdown": "^0.23.7",
+    "postcss-syntax": "^0.10.0",
+    "sass-lint": "^1.12.1",
+    "webpack": "^3.12.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.11",
+    "image-webpack-loader": "^4.2.0",
     "jquery": "^3.3.1",
-    "popper.js": "^1.14.3"
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "transfer-webpack-plugin": "^0.1.4",
+    "url-loader": "^1.0.1"
   }
 }

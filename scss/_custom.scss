@@ -1,0 +1,17 @@
+// theme overrides
+$theme-colors: (
+	"primary": #0074d9,
+	"danger": #ff4136
+  );
+
+// variable overrides
+$body-bg: #000;
+$body-color: #111;
+
+@media print {
+	.container {
+	  width: auto;
+	}
+  }
+
+@import "node_modules/bootstrap/scss/bootstrap";
