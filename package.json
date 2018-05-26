@@ -10,15 +10,16 @@
   "license": "ISC",
   "engines": {
     "node": "0.8.x",
-    "npm":  "1.1.x"
-	},
-	"dependencies": {
+    "npm": "1.1.x"
+  },
+  "dependencies": {
     "bootstrap": "^4.1.1",
     "popper.js": "^1.14.3",
     "postcss-html": "^0.23.7",
     "postcss-markdown": "^0.23.7",
     "postcss-syntax": "^0.10.0",
     "sass-lint": "^1.12.1",
+    "shrinkwrap": "^0.4.0",
     "webpack": "^3.12.0"
   },
   "devDependencies": {
